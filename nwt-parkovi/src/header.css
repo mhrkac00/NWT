@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(48,144,161,255);
+
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-size:x-large;
+    color: white;
+
+
+}
+
+nav a, p{
+    margin: 20px;
+    padding-left: 20px;
+
+    
+}
+
+a{
+    color: white;
+
+}
+
+
+
